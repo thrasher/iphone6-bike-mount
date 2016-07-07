@@ -2,8 +2,6 @@ iPhone6 in-case Bike Mount
 ===========
 This iPhone6 bike mount is designed to fit around a cased-iPhone6.  This allows for use of the mount, without removing the iPhone from it's existing case, thus making transitions from on-bike riding, to work, much faster.  The phone stays in it's case the whole time, yet is visible while riding if needed.
 
-<script src="https://embed.github.com/view/3d/thrasher/iphone6-bike-mount/blob/master/iphone2-bike-mount.stl"></script>
-
 ## 3D Printing Instructions 
 
 The OpenSCAD file has three parts that must be printed separately:
