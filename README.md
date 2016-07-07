@@ -13,6 +13,11 @@ Use the .scad file to print each piece by commenting out the other parts, creati
 
 The included .stl for the three parts together is only for illustration purposes.
 
+Makerbot Mini print settings:
+- shells: 2
+- infill: 20%
+- rafts: no (requires manual editing of json file)
+
 ## Fitment
 
 The iPhone-in-case dimensions specifically fit a Yahoo-branded case.  This just happened to be the one that I had at the time.  Adjust the parameters as needed, and do a test print for other cases.
